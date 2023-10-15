@@ -38,7 +38,7 @@ const Footer = () => {
           <a href="https://vishwa.vercel.app" target="_blank">
             <>vishwa.offl</>
           </a>
-          <span className="ml-2 text-gray-400">
+          <span className="ml-2 text-gray-400" title='Loading...'>
             {views}k+ Views
           </span>
         </p>
