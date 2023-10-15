@@ -1,6 +1,6 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
 
-![store](https://res.cloudinary.com/do7ntibpe/image/upload/v1697378708/dropship-coming-soon.jpg)
+![store](https://res.cloudinary.com/do7ntibpe/image/upload/v1697379959/dropship-store.jpg)
 
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
